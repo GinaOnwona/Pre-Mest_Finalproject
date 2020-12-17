@@ -1,0 +1,16 @@
+.home {
+
+    background-image: url(./images/dashboard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.line {
+
+}
